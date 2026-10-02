@@ -1,0 +1,20 @@
+{
+  "id": 784,
+  "title": "Tire Condition Monitor Maintenance Reminders",
+  "repository_slug": "tire-condition-monitor-maintenance-reminders",
+  "category": "Smart Vehicles",
+  "platform": "Teensy 4.1",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "LoRa",
+  "components": [
+    "IMU",
+    "buzzer"
+  ],
+  "scope": "Build a smart vehicles prototype that uses IMU, buzzer to track usage-based maintenance intervals. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Maintenance Reminders demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/tire-condition-monitor-maintenance-reminders/tire-condition-monitor-maintenance-reminders.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
